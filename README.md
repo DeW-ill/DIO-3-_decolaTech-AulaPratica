@@ -4,3 +4,4 @@ Introdução aos principais operadores para manipulação de códigos em Javascr
 Atividade proposta em curso de sintaxe e operadores Javascript
 
 
+![](./assets/certificate/SintaxeEOperadores.png)
